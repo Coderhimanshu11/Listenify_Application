@@ -67,7 +67,7 @@ public class Album {
                }
 
     }
-            return "song does not excist";
+            return "song does not exist";
         }
 
 
